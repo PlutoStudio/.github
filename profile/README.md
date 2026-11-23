@@ -52,7 +52,12 @@ PlutoStudio เป็นทีมพัฒนาซอฟต์แวร์จ�
       เว็บร้านทอง แสดงราคาทองวันนี้ สินค้า บริการ โปรโมชั่น และแผนที่สาขา<br />
       <a href="https://www.maethongbaigold.com/">maethongbaigold.com</a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <img src="assets/card-itmsushop.png" alt="IT MSU SHOP" />
+      <h3>IT MSU SHOP</h3>
+      ตลาดออนไลน์ "สินค้าดีที่อีสาน" ของวิสาหกิจชุมชนภาคอีสาน ร้านค้าเปิดร้านเอง ไลฟ์ขายสินค้า ชำระด้วยสลิปโอน พร้อมระบบหลังบ้าน<br />
+      <sub>ปิดให้บริการแล้ว</sub>
+    </td>
   </tr>
 </table>
 
