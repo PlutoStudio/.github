@@ -25,24 +25,24 @@ PlutoStudio เป็นทีมพัฒนาซอฟต์แวร์จ�
       <a href="https://www.planriean.com">planriean.com</a>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/card-payforward.png" alt="Payforward" />
+      <h3>Payforward</h3>
+      แอปวางแผนการเงินส่วนตัวแบบ self-host ใช้เงินเดือนเดือนนี้วางแผนจ่ายเดือนหน้า แผนรายจ่ายรายเดือน เงินเดือนและภาษีเงินได้
+      Subscriptions และหนี้ผ่อน หารบิลกับเพื่อน อ่านสลิปโอนด้วย AI พร้อมแอป Android ที่ส่งสลิปเข้าระบบให้อัตโนมัติ
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://group-sen.plutopon.me"><img src="assets/card-group-sentinel.png" alt="Group Sentinel" /></a>
       <h3>Group Sentinel</h3>
       ผู้ช่วยแอดมินกลุ่ม Facebook ใช้ AI ตรวจโพสต์ คัดกรองคำขอเข้ากลุ่ม พร้อม Insights และ audit log<br />
       <a href="https://group-sen.plutopon.me">group-sen.plutopon.me</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://roiet-twc.greendev.app/dashboard"><img src="assets/card-waterwise.png" alt="WaterWise" /></a>
       <h3>WaterWise</h3>
       ระบบข้อมูลน้ำชุมชนระดับจังหวัด แผนที่ภาพรวม ความต้องการใช้น้ำ แหล่งน้ำสำรวจ และน้ำต้นทุน<br />
       <a href="https://roiet-twc.greendev.app/dashboard">roiet-twc.greendev.app</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/card-verddc.png" alt="verDDC" />
-      <h3>verDDC</h3>
-      เว็บเช่าเครื่อง DDC รายวัน/รายสัปดาห์ เติมเงินผ่าน PromptPay พร้อมระบบสั่งเปิด-ปิดเครื่องจากระยะไกล<br />
-      <sub>ปิดให้บริการแล้ว</sub>
     </td>
   </tr>
   <tr>
@@ -51,6 +51,15 @@ PlutoStudio เป็นทีมพัฒนาซอฟต์แวร์จ�
       <h3>แม่ทองใบอมตะ</h3>
       เว็บร้านทอง แสดงราคาทองวันนี้ สินค้า บริการ โปรโมชั่น และแผนที่สาขา<br />
       <a href="https://www.maethongbaigold.com/">maethongbaigold.com</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/card-verddc.png" alt="verDDC" />
+      <h3>verDDC</h3>
+      เว็บเช่าเครื่อง DDC รายวัน/รายสัปดาห์ เติมเงินผ่าน PromptPay พร้อมระบบสั่งเปิด-ปิดเครื่องจากระยะไกล<br />
+      <sub>ปิดให้บริการแล้ว</sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/card-itmsushop.png" alt="IT MSU SHOP" />
