@@ -25,9 +25,9 @@ PlutoStudio เป็นทีมพัฒนาซอฟต์แวร์จ�
       <a href="https://www.planriean.com">planriean.com</a>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/card-payforward.png" alt="Payforward" />
-      <h3>Payforward</h3>
-      แอปวางแผนการเงินส่วนตัวแบบ self-host ใช้เงินเดือนเดือนนี้วางแผนจ่ายเดือนหน้า แผนรายจ่ายรายเดือน เงินเดือนและภาษีเงินได้
+      <img src="assets/card-kanwai.png" alt="กันไว้ · Kanwai" />
+      <h3>กันไว้ · Kanwai</h3>
+      แอปวางแผนการเงินส่วนตัวแบบ self-host กันเงินเดือนนี้ไว้จ่ายบิลเดือนหน้าก่อน แล้วรู้ว่าเหลือใช้เท่าไหร่ แผนรายจ่ายรายเดือน เงินเดือนและภาษีเงินได้
       Subscriptions และหนี้ผ่อน หารบิลกับเพื่อน อ่านสลิปโอนด้วย AI พร้อมแอป Android ที่ส่งสลิปเข้าระบบให้อัตโนมัติ
     </td>
   </tr>
